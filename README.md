@@ -1,4 +1,4 @@
-# klimatic
+# Weather Forecasting Application
 
 A new Flutter application.
 
